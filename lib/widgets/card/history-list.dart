@@ -21,6 +21,7 @@ class HistoryList extends StatelessWidget {
           HistoryCard(),
           HistoryCard(
             alt: true,
+            
           ),
           HistoryCard(),
           HistoryCard(
